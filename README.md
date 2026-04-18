@@ -1,7 +1,7 @@
 # Yaseen Haider
 
 ## About Me
-I am Yaseen Haider,I'm a passionate developer focused on building clean, scalable, and user-friendly software.
+I'm a passionate developer focused on building clean, scalable, and user-friendly software.
 I enjoy working with modern web technologies, solving real-world problems, and continuously improving my craft.
 
 ## Skills
