@@ -1,7 +1,8 @@
 # Yaseen Haider
 
 ## About Me
-I am Yaseen Haider, a passionate developer with experience in creating impactful applications.
+I am Yaseen Haider,I'm a passionate developer focused on building clean, scalable, and user-friendly software.
+I enjoy working with modern web technologies, solving real-world problems, and continuously improving my craft.
 
 ## Skills
 - Web Development
@@ -11,6 +12,9 @@ I am Yaseen Haider, a passionate developer with experience in creating impactful
 
 ## Featured Projects
 - Medical App
+- shopping system
+- Ai voice assistent
+- other basic semester projects
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical)
