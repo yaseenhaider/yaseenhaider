@@ -42,4 +42,4 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 - Email: [yaseenhaiderabbas@gmail.com](mailto:yaseenhaiderabbas@gmail.com)
 - LinkedIn: [Yaseen Haider](https://www.linkedin.com/in/yaseen-haider-01b054343)
 - Portfolio: [Webbase Portfolio](https://yaseenhaider.github.io/Webbase-Portfolio/)
-- LeetCode: [yaseenhaider](https://leetcode.com/yaseenhaider)
+- LeetCode: [yaseen_haider](https://leetcode.com/yaseen_haider)
