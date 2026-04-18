@@ -18,7 +18,17 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/yaseen_haider)
+[![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/api?username=yaseen_haider&skill=java,python,cpp)](https://leetcode.com/yaseen_haider)
+
+**Live Profile:** [Visit My LeetCode Profile](https://leetcode.com/yaseen_haider)
+
+| Difficulty | Count |
+|------------|-------|
+| Easy      | 3     |
+| Medium    | 0     |
+| Hard      | 0     |
+
+**Total Problems Solved: 3**
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical)
