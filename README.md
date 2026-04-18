@@ -18,7 +18,7 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/yaseen_haider?theme=dark)
+![LeetCode Stats](https://leetcode.card.workers.dev/yaseen_haider)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical)
