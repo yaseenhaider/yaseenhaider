@@ -20,21 +20,6 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/yaseen_haider?theme=dark)
 
-**Live Stats:** [Visit My LeetCode Profile](https://leetcode.com/yaseen_haider)
-
-| Difficulty | Count |
-|------------|-------|
-| Easy      | 3     |
-| Medium    | 0     |
-| Hard      | 0     |
-
-**Total Problems Solved: 3**
-
-### Recently Solved:
-1. **Palindrome Number** (Easy) - [LeetCode Link](https://leetcode.com/problems/palindrome-number)
-2. **Roman to Integer** (Easy) - [LeetCode Link](https://leetcode.com/problems/roman-to-integer)
-3. **Two Sum** (Easy) - [LeetCode Link](https://leetcode.com/problems/two-sum)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical)
 
