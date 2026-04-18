@@ -18,9 +18,9 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/yaseenhaider?theme=dark)
+![LeetCode Stats](https://leetcode.card.workers.dev/yaseen_haider?theme=dark)
 
-**Live Stats:** [Visit My LeetCode Profile](https://leetcode.com/yaseenhaider)
+**Live Stats:** [Visit My LeetCode Profile](https://leetcode.com/yaseen_haider)
 
 | Difficulty | Count |
 |------------|-------|
