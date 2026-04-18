@@ -21,8 +21,8 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 3 |
-| Medium | 0 |
+| Easy | 5 |
+| Medium | 1 |
 | Hard | 0 |
 
 **Total Problems Solved: 3**
