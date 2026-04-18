@@ -16,6 +16,22 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 - Ai voice assistent
 - other basic semester projects
 
+## LeetCode Progress
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problems%20Solved-blue?style=flat-square&logo=leetcode)
+
+| Difficulty | Count |
+|------------|-------|
+| Easy | 3 |
+| Medium | 0 |
+| Hard | 0 |
+
+**Total Problems Solved: 3**
+
+### Recently Solved:
+1. **Palindrome Number** (Easy) - Convert roman numerals and check palindromes
+2. **Roman to Integer** (Easy) - Convert roman numerals to integers
+3. **Two Sum** (Easy) - Find two numbers that add up to target
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical)
 
