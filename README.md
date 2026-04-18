@@ -16,21 +16,24 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 - Ai voice assistent
 - other basic semester projects
 
-## LeetCode Progress
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problems%20Solved-blue?style=flat-square&logo=leetcode)
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/yaseenhaider?theme=dark)
+
+**Live Stats:** [Visit My LeetCode Profile](https://leetcode.com/yaseenhaider)
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 5 |
-| Medium | 1 |
-| Hard | 0 |
+| Easy      | 3     |
+| Medium    | 0     |
+| Hard      | 0     |
 
 **Total Problems Solved: 3**
 
 ### Recently Solved:
-1. **Palindrome Number** (Easy) - Convert roman numerals and check palindromes
-2. **Roman to Integer** (Easy) - Convert roman numerals to integers
-3. **Two Sum** (Easy) - Find two numbers that add up to target
+1. **Palindrome Number** (Easy) - [LeetCode Link](https://leetcode.com/problems/palindrome-number)
+2. **Roman to Integer** (Easy) - [LeetCode Link](https://leetcode.com/problems/roman-to-integer)
+3. **Two Sum** (Easy) - [LeetCode Link](https://leetcode.com/problems/two-sum)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical)
@@ -39,3 +42,4 @@ I enjoy working with modern web technologies, solving real-world problems, and c
 - Email: [yaseenhaiderabbas@gmail.com](mailto:yaseenhaiderabbas@gmail.com)
 - LinkedIn: [Yaseen Haider](https://www.linkedin.com/in/yaseen-haider-01b054343)
 - Portfolio: [Webbase Portfolio](https://yaseenhaider.github.io/Webbase-Portfolio/)
+- LeetCode: [yaseenhaider](https://leetcode.com/yaseenhaider)
