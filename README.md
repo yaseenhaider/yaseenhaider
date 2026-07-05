@@ -1,82 +1,71 @@
-# Yaseen Haider
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F701&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Junaid+Ashraf;Passionate+Programmer;Backend+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <b>Software Developer • Java / Python / C++ • Flutter (Dart) • Problem Solving</b>
+<h3 align="center">🚀 A passionate programmer from Pakistan 🇵🇰</h3>
+
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Junaid Ashraf
+location: Pakistan
+current_focus: Open Source
+learning: [DSA, DBMS, System Design]
+interests: [Coding, Real-time APIs, Problem Solving]
+fun_fact: "I debug with print statements, and I'm not ashamed! 😄"
+```
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,dart,sqlite,postgresql" />
 </p>
 
-<p align="center">
-  <a href="mailto:yaseenhaiderabbas@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/yaseen-haider-01b054343">LinkedIn</a> •
-  <a href="https://yaseenhaider.github.io/Webbase-Portfolio/">Portfolio</a> •
-  <a href="https://leetcode.com/yaseen_haider">LeetCode</a>
+#### 🛠️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,git,linux,docker,idea" />
 </p>
 
----
-
-## About me
-I’m a developer who enjoys building clean, user-friendly apps and strengthening fundamentals through data structures & algorithms.
-
-**What I’m focused on:**
-- Building semester / portfolio projects with solid OOP and clean UI
-- DSA practice in **C++/Java**
-- Mobile app development with **Flutter**
+</div>
 
 ---
 
-## Tech stack
-- **Languages:** Java, Python, C++, Dart
-- **Mobile:** Flutter
-- **Web:** HTML/CSS
-- **Core CS:** OOP, DSA
+
+### 🏆 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/56_56?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
+</div>
 
 ---
 
-## Featured projects
-Here are a few repos that best represent my work:
+### 🤝 Connect With Me
 
-- **Medical App (Flutter)** — mobile UI + app structure
-  - Repo: `medical-app`
-- **Student Course Register System (Java, OOP / GUI)**
-  - Repo: `Student-Course-Register-System`
-- **Online Shopping / Store projects (Java)**
-  - Repos: `online-shopping-store`, `Shopping-Store-online`, `online-shop`
-- **DSA practice**
-  - Repos: `dsa`, `DSA-in-C-`
-
-> I’m actively improving documentation and adding screenshots / demos across projects.
-
----
-
-## Coding profiles
-### LeetCode
-If your LeetCode card is not showing, it’s usually because the service is down or rate-limited.
-
-**Recommended (stable) card:**
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yaseen_haider?theme=dark&font=Karma&ext=contest)](https://leetcode.com/yaseen_haider)
-
-**Alternative (your previous card):**
-
-[![LeetCode Stats Card](https://leetcode-stats-api.herokuapp.com/api?username=yaseen_haider&skill=java,python,cpp)](https://leetcode.com/yaseen_haider)
+<div align="center">
+  <a href="https://twitter.com/junaid_ashraf56" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/junaid-ashraf56/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ashrafjunaid848" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/u/56_56/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+</div>
 
 ---
 
-## GitHub stats
-If your GitHub stats card is not visible sometimes, it can be due to caching/rate limits. The cards below are commonly reliable.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenhaider&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=yaseenhaider&theme=radical&hide_border=true" />
-</p>
-
----
-
-## Contact
-- Email: [yaseenhaiderabbas@gmail.com](mailto:yaseenhaiderabbas@gmail.com)
-- LinkedIn: [Yaseen Haider](https://www.linkedin.com/in/yaseen-haider-01b054343)
-- Portfolio: [Webbase Portfolio](https://yaseenhaider.github.io/Webbase-Portfolio/)
-- LeetCode: [yaseen_haider](https://leetcode.com/yaseen_haider)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
