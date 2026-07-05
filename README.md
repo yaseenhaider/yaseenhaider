@@ -49,7 +49,7 @@ Here are a few repos that best represent my work:
 
 ## Coding profiles
 ### LeetCode
-If your LeetCode card is not showing, it’s usually because the service is down or rate-limited.
+
 
 **Recommended (stable) card:**
 
