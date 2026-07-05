@@ -62,7 +62,7 @@ If your LeetCode card is not showing, it’s usually because the service is down
 ---
 
 ## GitHub stats
-If your GitHub stats card is not visible sometimes, it can be due to caching/rate limits. The cards below are commonly reliable.
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseenhaider&show_icons=true&theme=radical&hide_border=true" />
