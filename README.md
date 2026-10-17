@@ -22,7 +22,7 @@
 I’m **Yaseen Haider**, a software developer who enjoys building clean, user-friendly applications and strengthening my fundamentals through data structures and algorithms.
 
 - 🎓 Building semester and portfolio projects with strong **OOP principles**
-- 🧠 Practicing **data structures and algorithms** in C++ and Java
+- 🧠 Practicing **data structures and algorithms** in Java and Python
 - 📱 Developing mobile applications with **Flutter and Dart**
 - 💡 Interested in writing maintainable code and improving user experience
 - 🚀 Continuously learning, experimenting, and improving my projects
@@ -58,7 +58,7 @@ I’m **Yaseen Haider**, a software developer who enjoys building clean, user-fr
 | [Medical App](https://github.com/yaseenhaider/medical-app) | Mobile application UI and app structure | Flutter, Dart |
 | [Student Course Register System](https://github.com/yaseenhaider/Student-Course-Register-System) | Course registration system using OOP and GUI concepts | Java |
 | [Online Shopping Store](https://github.com/yaseenhaider/online-shopping-store) | Online shopping and store application projects | Java |
-| [DSA Practice](https://github.com/yaseenhaider/dsa) | Practice implementations for data structures and algorithms | C++, Java |
+| [DSA Practice](https://github.com/yaseenhaider/dsa) | Practice implementations for data structures and algorithms | Python, Java |
 
 > More projects and documentation are being added regularly.
 
