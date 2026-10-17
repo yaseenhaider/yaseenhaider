@@ -32,7 +32,7 @@ I’m **Yaseen Haider**, a software developer who enjoys building clean, user-fr
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,dart,flutter,html,css,git,github,vscode&perline=10" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,html,css,git,github,vscode&perline=10" alt="Technology icons" />
 </div>
 
 <br />
