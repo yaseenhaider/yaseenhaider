@@ -41,11 +41,11 @@ I’m **Yaseen Haider**, a software developer who enjoys building clean, user-fr
 
 | Area | Skills |
 |---|---|
-| **Languages** | Java, Python, C++, Dart |
+| **Languages** | Java, Python, Dart |
 | **Mobile Development** | Flutter |
-| **Web Development** | HTML, CSS |
+| **Web Development** | HTML, CSS, JAVASCRIPT |
 | **Core Computer Science** | OOP, DSA |
-| **Tools** | Git, GitHub, VS Code |
+| **Tools** | Git, GitHub, VS Code|
 
 </div>
 
