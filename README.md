@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/yaseen_haider"><img src="https://img.shields.io/badge/LeetCode-yaseen__haider-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yaseenhaider&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=A78BFA&center=true&vCenter=true&width=320&lines=👀+Profile+Views" alt="Profile views animation" />
 
 </div>
 
